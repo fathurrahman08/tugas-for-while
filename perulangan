@@ -1,0 +1,17 @@
+#contoh perulangan for
+fruits = ["sepeda", "motor", "mobile"]
+for x in kendaraan:
+  if x == "motor":
+    break
+  print(x) 
+  
+#contoh perulangan while
+i = 1
+while i < 6:
+  print(i)
+  if (i == 3):
+    break
+  i += 1
+
+
+
